@@ -1,3 +1,3 @@
 # ProjectGutenberg
-Code Path Project
+Code Path Project,
 Summer 2020
